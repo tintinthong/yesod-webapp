@@ -1,3 +1,7 @@
+# yesod-webapp
+
+A web application built using Yesod framework. 
+
 ## Haskell Setup
 
 1. If you haven't already, [install Stack](https://haskell-lang.org/get-started)
@@ -41,4 +45,3 @@ stack test --flag yesod-test:library-only --flag yesod-test:dev
 * There are several chatrooms you can ask for help:
 	* For IRC, try Freenode#yesod and Freenode#haskell
 	* [Functional Programming Slack](https://fpchat-invite.herokuapp.com/), in the #haskell, #haskell-beginners, or #yesod channels.
-# yesod-webapp
