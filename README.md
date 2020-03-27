@@ -2,6 +2,7 @@
 
 A web application built using Yesod framework. 
 
+
 ## Haskell Setup
 
 1. If you haven't already, [install Stack](https://haskell-lang.org/get-started)
